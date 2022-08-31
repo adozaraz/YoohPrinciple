@@ -1,0 +1,15 @@
+{
+  "enabledButtons": [
+    {
+      "id": "quickadd:runQuickAdd",
+      "icon": "note-glyph",
+      "name": "QuickAdd: Run QuickAdd",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": true,
+  "titleLeft": [],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasGun",
+      "FabGrunt",
+      "FabFantasyFlightGames",
+      "FabBattleNet"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "40 - Obsidian": "FabBattleNet",
+  "10 - Принцип Йоха": "FabFantasyFlightGames",
+  "Перо Тенгу Вооружение": "FasGun"
+}

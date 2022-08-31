@@ -1,0 +1,88 @@
+{
+  "choices": [
+    {
+      "id": "e934bac6-39ab-4274-9fdb-dbc36877a8af",
+      "name": "Добавить Арсенал",
+      "type": "Template",
+      "command": false,
+      "templatePath": "40 - Obsidian/Templates/Arsenal Card Template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10 - Принцип Йоха/Арсенал"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "d8c18abe-7c86-438a-8fda-bf758d5d33e4",
+      "name": "Добавить Проклятие",
+      "type": "Template",
+      "command": false,
+      "templatePath": "40 - Obsidian/Templates/Curse Card Template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "350f3ada-e193-43e5-9516-76fe8c909e05",
+      "name": "Добавить Задачу",
+      "type": "Template",
+      "command": false,
+      "templatePath": "40 - Obsidian/Templates/Quest Card Template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10 - Принцип Йоха/Задачи"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}
