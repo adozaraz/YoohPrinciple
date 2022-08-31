@@ -1,5 +1,5 @@
 ---
-tags: curse
+tags: curse health
 Очки: 21
 Тема: Здоровье
 ---

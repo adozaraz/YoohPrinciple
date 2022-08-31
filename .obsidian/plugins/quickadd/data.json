@@ -81,6 +81,34 @@
       },
       "openFile": true,
       "openFileInMode": "source"
+    },
+    {
+      "id": "cd1a8057-23cc-4371-b5a5-aa99d2d20083",
+      "name": "Добавить Идею",
+      "type": "Template",
+      "command": false,
+      "templatePath": "40 - Obsidian/Templates/Idea Template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10 - Принцип Йоха/Идеи"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source"
     }
   ],
   "macros": [],

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f462159cd3307b0e",
+        "id": "e0c87c553dfb6b14",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 - Принцип Йоха/Карты задач Query.md",
+            "file": "README.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#arsenal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Принцип Йоха/Карты задач Query.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Принцип Йоха/Карты задач Query.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Принцип Йоха/Карты задач Query.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,17 +147,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f462159cd3307b0e",
+  "active": "e0c87c553dfb6b14",
   "lastOpenFiles": [
-    "10 - Принцип Йоха/Карты Арсенала Query.md",
-    "10 - Принцип Йоха/Арсенал/Снайперский.md",
-    "10 - Принцип Йоха/Арсенал/Классический.md",
-    "10 - Принцип Йоха/Арсенал/Анимешный.md",
-    "10 - Принцип Йоха/Арсенал/Спартанский.md",
-    "10 - Принцип Йоха/Арсенал/Гладиаторский.md",
-    "10 - Принцип Йоха/Арсенал/Мятежный.md",
-    "10 - Принцип Йоха/Арсенал/Монашеский.md",
-    "Перо Тенгу Вооружение/Сань-Дзе-Гунь.md",
-    "Доступное вооружение в Перо Тенгу.md"
+    "10 - Принцип Йоха/Идеи/Проклятие щедрости.md",
+    "10 - Принцип Йоха/Идеи/Проклятие разговорчивости.md",
+    "10 - Принцип Йоха/Идеи/Проклятие фиксации.md",
+    "10 - Принцип Йоха/Идеи/Идея доппельгангера.md",
+    "10 - Принцип Йоха/Идеи/Проклятия на здоровье.md",
+    "10 - Принцип Йоха/Идеи/Тема проклятий со временем боя.md",
+    "40 - Obsidian/01. Quick Access.md",
+    "10 - Принцип Йоха/Арсенал/Средневековый.md",
+    "10 - Принцип Йоха/Арсенал/Обычная тямбара.md",
+    "10 - Принцип Йоха/Арсенал/Спартанский.md"
   ]
 }
